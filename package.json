@@ -1,0 +1,28 @@
+{
+  "name": "zk-demo",
+  "version": "1.0.0",
+  "description": "zero knowledge proof demo with circom",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prajwolrg/zk-demo.git"
+  },
+  "keywords": [
+    "zk",
+    "zero-knowledge",
+    "plonk",
+    "groth16"
+  ],
+  "author": "Prajwol Gyawali",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prajwolrg/zk-demo/issues"
+  },
+  "homepage": "https://github.com/prajwolrg/zk-demo#readme",
+  "dependencies": {
+    "circomlib": "^2.0.5"
+  }
+}
