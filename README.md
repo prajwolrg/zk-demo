@@ -4,6 +4,7 @@
 ```sh
 wget https://hermez.s3-eu-west-1.amazonaws.com/powersOfTau28_hez_final_08.ptau
 
+```
 ### 1. Create the circuit
 ```sh
 cat <<EOT > circuit.circom
