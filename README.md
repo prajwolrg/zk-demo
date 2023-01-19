@@ -1,5 +1,6 @@
+## Installation
+Instructions [here](https://docs.circom.io/getting-started/installation/)
 ## Guide
-
 ### 1. Create the circuit
 ```sh
 cat <<EOT > circuit.circom
